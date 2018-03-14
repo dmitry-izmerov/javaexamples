@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<first>
+    <first>Some text</first>
+    <third>Some another</third>
+    <first><![CDATA[
+        <first>in CDATA</first>
+    ]]></first>
+    <fourth>Another text</fourth>
+    <first/>
+    <second>Second here</second>
+</first>
